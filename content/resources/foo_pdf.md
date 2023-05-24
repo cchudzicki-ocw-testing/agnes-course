@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/agness-course/foo.pdf
+file: /media/courses/1-agness-course-spring-2025/foo.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''

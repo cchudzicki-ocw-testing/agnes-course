@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /media/courses/agness-course/mit18_03scf11_s23_4text.pdf
+file: /media/courses/1-agness-course-spring-2025/mit18_03scf11_s23_4text.pdf
 file_type: application/pdf
 image_metadata:
   caption: ''
