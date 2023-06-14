@@ -1,9 +1,9 @@
 leftnav:
-- identifier: 02be81ed-25ec-4f36-a6f4-6bb3b8606064
-  name: Test
-  url: /pages/a-new-page
-  weight: 10
 - identifier: f7f4bd67-04d9-42f7-aa00-307eb2460bf1
   name: another test
   url: /resources/my_video_mov
+  weight: 10
+- identifier: 02be81ed-25ec-4f36-a6f4-6bb3b8606064
+  name: Test
+  url: /pages/a-new-page
   weight: 20
