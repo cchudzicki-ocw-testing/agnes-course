@@ -12,3 +12,7 @@ ok let's go!
 - c
 
 Nice??
+
+ 
+
+{{< resource uuid="955743b2-12e0-46c8-bd9c-e2e31ee67785" >}}
