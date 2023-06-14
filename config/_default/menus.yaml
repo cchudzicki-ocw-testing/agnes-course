@@ -3,3 +3,7 @@ leftnav:
   name: Test
   url: /pages/a-new-page
   weight: 10
+- identifier: f7f4bd67-04d9-42f7-aa00-307eb2460bf1
+  name: another test
+  url: /resources/my_video_mov
+  weight: 20
